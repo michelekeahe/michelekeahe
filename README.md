@@ -1,7 +1,6 @@
 - 👋 Aloha, I’m @michelekeahe
 - 👀 I’m interested in game development and application development
 - 🌱 I’m currently learning React-Native
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me: @michelekeahe on Twitter
 
 <!---
