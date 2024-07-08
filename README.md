@@ -1,6 +1,4 @@
 - 👋 Aloha mai, I’m @michelekeahe
-- 👀 I’m interested in graphics programmming, particularly in shader development
-- 🌱 I’m currently learning C, Unity C#, 3D modeling
 - 📫 Reach me: @michelekeahe on Twitter
 
 <!---
